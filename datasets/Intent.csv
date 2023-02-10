@@ -1,0 +1,475 @@
+Utterances,Precise Intent,General Intent
+can you tell me more,further_info,show
+what is it about,further_info,show
+tell me more,further_info,show
+elaborate,further_info,show
+tell me about it,further_info,show
+what is this show about?,further_info,show
+can you talk about this show?,further_info,show
+what is it?,further_info,show
+what does it talk about?,further_info,show
+I want to watch a movie about,discover,show
+show me a movie about about,discover,show
+do you have any movies about,discover,show
+movie about,discover,show
+movie about and,discover,show
+show about and,discover,show
+find me a movie about,discover,show
+can you find a movie about,discover,show
+I want to watch a show about,discover,show
+show me a show about about,discover,show
+do you have any shows about,discover,show
+show about,discover,show
+find me a show about,discover,show
+can you find a show about,discover,show
+I want to watch something about,discover,show
+I want to watch a show or movie about,discover,show
+show me a show or movie about about,discover,show
+do you have any shows or movies about,discover,show
+show or movie about,discover,show
+find me a show or movie about,discover,show
+can you find a show or movie about,discover,show
+I want to watch a movie or show about,discover,show
+show me a movie or show about about,discover,show
+do you have any shows or movies about,discover,show
+movie or show about,discover,show
+find me a movie or show about,discover,show
+can you find a movie or show about,discover,show
+i wanna watch a show about,discover,show
+i'd like to watch a show about,discover,show
+can you recommend me a show about,discover,show
+who are you?,smalltalk_agent_acquaintance,small_talk
+all about you,smalltalk_agent_acquaintance,small_talk
+what is your personality,smalltalk_agent_acquaintance,small_talk
+define yourself,smalltalk_agent_acquaintance,small_talk
+what are you,smalltalk_agent_acquaintance,small_talk
+say about you,smalltalk_agent_acquaintance,small_talk
+introduce yourself,smalltalk_agent_acquaintance,small_talk
+describe yourself,smalltalk_agent_acquaintance,small_talk
+about yourself,smalltalk_agent_acquaintance,small_talk
+tell me about you,smalltalk_agent_acquaintance,small_talk
+tell me about yourself,smalltalk_agent_acquaintance,small_talk
+I want to know more about you,smalltalk_agent_acquaintance,small_talk
+I want to know you better,smalltalk_agent_acquaintance,small_talk
+talk some stuff about yourself,smalltalk_agent_acquaintance,small_talk
+tell me some stuff about you,smalltalk_agent_acquaintance,small_talk
+talk about yourself,smalltalk_agent_acquaintance,small_talk
+why are you here,smalltalk_agent_acquaintance,small_talk
+tell me about your personality,smalltalk_agent_acquaintance,small_talk
+who are you,smalltalk_agent_acquaintance,small_talk
+I am sad,smalltalk_user_sad,small_talk
+I'm grieving,smalltalk_user_sad,small_talk
+I am depressed,smalltalk_user_sad,small_talk
+I am feeling sad,smalltalk_user_sad,small_talk
+I am upset,smalltalk_user_sad,small_talk
+I'm unhappy,smalltalk_user_sad,small_talk
+I'm having a bad day,smalltalk_user_sad,small_talk
+I want to cry,smalltalk_user_sad,small_talk
+I'm not happy,smalltalk_user_sad,small_talk
+it was stupid,smalltalk_appraisal_bad,small_talk
+it's a bad thing,smalltalk_appraisal_bad,small_talk
+no it's not good,smalltalk_appraisal_bad,small_talk
+nothing good,smalltalk_appraisal_bad,small_talk
+it's just lame,smalltalk_appraisal_bad,small_talk
+i don't think it's an okay idea,smalltalk_appraisal_bad,small_talk
+that's awful,smalltalk_appraisal_bad,small_talk
+that's horrible,smalltalk_appraisal_bad,small_talk
+that's a bad thing,smalltalk_appraisal_bad,small_talk
+this is not a good thing,smalltalk_appraisal_bad,small_talk
+it's not a good thing,smalltalk_appraisal_bad,small_talk
+it's pretty bad,smalltalk_appraisal_bad,small_talk
+it's a shame,smalltalk_appraisal_bad,small_talk
+the situation is terrible,smalltalk_appraisal_bad,small_talk
+so it wasn't right,smalltalk_appraisal_bad,small_talk
+it's not great,smalltalk_appraisal_bad,small_talk
+how's your morning going?,smalltalk_greetings_how_are_you,small_talk
+how is your morning so far?,smalltalk_greetings_how_are_you,small_talk
+what's your progress?,smalltalk_greetings_how_are_you,small_talk
+how's this going?,smalltalk_greetings_how_are_you,small_talk
+how're you doing?,smalltalk_greetings_how_are_you,small_talk
+how are you?,smalltalk_greetings_how_are_you,small_talk
+how is everything?,smalltalk_greetings_how_are_you,small_talk
+how are things going?,smalltalk_greetings_how_are_you,small_talk
+how are the things going?,smalltalk_greetings_how_are_you,small_talk
+are you okay?,smalltalk_greetings_how_are_you,small_talk
+are you fine?,smalltalk_greetings_how_are_you,small_talk
+how's the mood?,smalltalk_greetings_how_are_you,small_talk
+how's your mood?,smalltalk_greetings_how_are_you,small_talk
+what are you feeling like?,smalltalk_greetings_how_are_you,small_talk
+how are you today?,smalltalk_greetings_how_are_you,small_talk
+how do you do this?,smalltalk_greetings_how_are_you,small_talk
+how do you do it?,smalltalk_greetings_how_are_you,small_talk
+how's the situation?,smalltalk_greetings_how_are_you,small_talk
+how's it?,smalltalk_greetings_how_are_you,small_talk
+how it's going?,smalltalk_greetings_how_are_you,small_talk
+how is this going?,smalltalk_greetings_how_are_you,small_talk
+how's it going?,smalltalk_greetings_how_are_you,small_talk
+how's your night?,smalltalk_greetings_how_are_you,small_talk
+how's your evening?,smalltalk_greetings_how_are_you,small_talk
+how did the day go?,smalltalk_greetings_how_are_you,small_talk
+how was your day?,smalltalk_greetings_how_are_you,small_talk
+are you having a good day?,smalltalk_greetings_how_are_you,small_talk
+hope your day goes well,smalltalk_greetings_how_are_you,small_talk
+how's the life?,smalltalk_greetings_how_are_you,small_talk
+how's life?,smalltalk_greetings_how_are_you,small_talk
+i'm fine and you're fine,smalltalk_greetings_how_are_you,small_talk
+how's your life?,smalltalk_greetings_how_are_you,small_talk
+how is your life?,smalltalk_greetings_how_are_you,small_talk
+how's the day going?,smalltalk_greetings_how_are_you,small_talk
+how's your day going?,smalltalk_greetings_how_are_you,small_talk
+how is your morning going?,smalltalk_greetings_how_are_you,small_talk
+what's your day like?,smalltalk_greetings_how_are_you,small_talk
+how's your day gone?,smalltalk_greetings_how_are_you,small_talk
+what about you?,smalltalk_greetings_how_are_you,small_talk
+how about you?,smalltalk_greetings_how_are_you,small_talk
+how's your day?,smalltalk_greetings_how_are_you,small_talk
+you're not helping me,smalltalk_agent_bad,small_talk
+you are bad,smalltalk_agent_bad,small_talk
+you're very bad,smalltalk_agent_bad,small_talk
+you're really bad,smalltalk_agent_bad,small_talk
+you are useless,smalltalk_agent_bad,small_talk
+you are horrible,smalltalk_agent_bad,small_talk
+you are a waste of time,smalltalk_agent_bad,small_talk
+you are disgusting,smalltalk_agent_bad,small_talk
+you are lame,smalltalk_agent_bad,small_talk
+you are no good,smalltalk_agent_bad,small_talk
+you're bad,smalltalk_agent_bad,small_talk
+you're awful,smalltalk_agent_bad,small_talk
+you are not cool,smalltalk_agent_bad,small_talk
+you are not good,smalltalk_agent_bad,small_talk
+you are so bad,smalltalk_agent_bad,small_talk
+you are so useless,smalltalk_agent_bad,small_talk
+you are terrible,smalltalk_agent_bad,small_talk
+you are totally useless,smalltalk_agent_bad,small_talk
+you are very bad,smalltalk_agent_bad,small_talk
+you are waste,smalltalk_agent_bad,small_talk
+you're a bad,smalltalk_agent_bad,small_talk
+you're not a good,smalltalk_agent_bad,small_talk
+you're not very good,smalltalk_agent_bad,small_talk
+you're terrible,smalltalk_agent_bad,small_talk
+you're the worst,smalltalk_agent_bad,small_talk
+you're the worst ever,smalltalk_agent_bad,small_talk
+you're worthless,smalltalk_agent_bad,small_talk
+you are very helpful,smalltalk_agent_good,small_talk
+you are the best,smalltalk_agent_good,small_talk
+you're a true professional,smalltalk_agent_good,small_talk
+you are good,smalltalk_agent_good,small_talk
+you work well,smalltalk_agent_good,small_talk
+you are good at it,smalltalk_agent_good,small_talk
+you are very good at it,smalltalk_agent_good,small_talk
+you are a pro,smalltalk_agent_good,small_talk
+you are a professional,smalltalk_agent_good,small_talk
+you're awesome,smalltalk_agent_good,small_talk
+you work very well,smalltalk_agent_good,small_talk
+you're perfect,smalltalk_agent_good,small_talk
+you're great,smalltalk_agent_good,small_talk
+you're so kind,smalltalk_agent_good,small_talk
+you are amazing,smalltalk_agent_good,small_talk
+you are awesome,smalltalk_agent_good,small_talk
+you are cool,smalltalk_agent_good,small_talk
+you are really good,smalltalk_agent_good,small_talk
+you are really nice,smalltalk_agent_good,small_talk
+you are so amazing,smalltalk_agent_good,small_talk
+you're just super,smalltalk_agent_good,small_talk
+you are so awesome,smalltalk_agent_good,small_talk
+you are so cool,smalltalk_agent_good,small_talk
+you are so fine,smalltalk_agent_good,small_talk
+you are so good,smalltalk_agent_good,small_talk
+you are so helpful,smalltalk_agent_good,small_talk
+you are so lovely,smalltalk_agent_good,small_talk
+you are the best ever,smalltalk_agent_good,small_talk
+you are the best in the world,smalltalk_agent_good,small_talk
+you are the nicest person in the world,smalltalk_agent_good,small_talk
+you are too good,smalltalk_agent_good,small_talk
+you are very cool,smalltalk_agent_good,small_talk
+you are very kind,smalltalk_agent_good,small_talk
+you are very lovely,smalltalk_agent_good,small_talk
+you are very useful,smalltalk_agent_good,small_talk
+you are wonderful,smalltalk_agent_good,small_talk
+you made my day,smalltalk_agent_good,small_talk
+you make my day,smalltalk_agent_good,small_talk
+you rock,smalltalk_agent_good,small_talk
+you almost sound human,smalltalk_agent_good,small_talk
+I want to tell everyone how awesome you are,smalltalk_agent_good,small_talk
+I'd like to tell everyone that you are awesome,smalltalk_agent_good,small_talk
+I want to let everyone know that you are awesome,smalltalk_agent_good,small_talk
+let's tell everyone that you are awesome,smalltalk_agent_good,small_talk
+you are really amazing,smalltalk_agent_good,small_talk
+I like you the way you are,smalltalk_user_likes_agent,small_talk
+I like you,smalltalk_user_likes_agent,small_talk
+I like you a lot,smalltalk_user_likes_agent,small_talk
+I think I like you,smalltalk_user_likes_agent,small_talk
+I liked you,smalltalk_user_likes_agent,small_talk
+like you a lot,smalltalk_user_likes_agent,small_talk
+you are special,smalltalk_user_likes_agent,small_talk
+I like you too,smalltalk_user_likes_agent,small_talk
+I really like you,smalltalk_user_likes_agent,small_talk
+but I like you,smalltalk_user_likes_agent,small_talk
+I like u,smalltalk_user_likes_agent,small_talk
+just like you,smalltalk_user_likes_agent,small_talk
+I like you very much,smalltalk_user_likes_agent,small_talk
+I like you so much,smalltalk_user_likes_agent,small_talk
+yeah I like you,smalltalk_user_likes_agent,small_talk
+you're special,smalltalk_user_likes_agent,small_talk
+yes I like you,smalltalk_user_likes_agent,small_talk
+okay I like you,smalltalk_user_likes_agent,small_talk
+you are special to me,smalltalk_user_likes_agent,small_talk
+you are very special,smalltalk_user_likes_agent,small_talk
+you are so sweet,smalltalk_user_likes_agent,small_talk
+you know I like you,smalltalk_user_likes_agent,small_talk
+that's why I like you,smalltalk_user_likes_agent,small_talk
+I like you baby,smalltalk_user_likes_agent,small_talk
+you are very special to me,smalltalk_user_likes_agent,small_talk
+I just like you,smalltalk_user_likes_agent,small_talk
+hey I like you,smalltalk_user_likes_agent,small_talk
+thank you I like you too,smalltalk_user_likes_agent,small_talk
+I do like you,smalltalk_user_likes_agent,small_talk
+you are special for me,smalltalk_user_likes_agent,small_talk
+no I like you the way you are,smalltalk_user_likes_agent,small_talk
+I like you already,smalltalk_user_likes_agent,small_talk
+well you are special,smalltalk_user_likes_agent,small_talk
+but I really like you,smalltalk_user_likes_agent,small_talk
+I like you more,smalltalk_user_likes_agent,small_talk
+that's what I like about you,smalltalk_user_likes_agent,small_talk
+you are so special,smalltalk_user_likes_agent,small_talk
+hi I like you,smalltalk_user_likes_agent,small_talk
+I really really like you,smalltalk_user_likes_agent,small_talk
+you're very special,smalltalk_user_likes_agent,small_talk
+I like you as a friend,smalltalk_user_likes_agent,small_talk
+that's because you are special,smalltalk_user_likes_agent,small_talk
+I said I like you,smalltalk_user_likes_agent,small_talk
+you're so special,smalltalk_user_likes_agent,small_talk
+good I like you,smalltalk_user_likes_agent,small_talk
+yes you are special,smalltalk_user_likes_agent,small_talk
+I like your smile,smalltalk_user_likes_agent,small_talk
+I like you as you are,smalltalk_user_likes_agent,small_talk
+I'm starting to like you,smalltalk_user_likes_agent,small_talk
+you're awesome I like you,smalltalk_user_likes_agent,small_talk
+I also like you,smalltalk_user_likes_agent,small_talk
+but I like u,smalltalk_user_likes_agent,small_talk
+of course I like you,smalltalk_user_likes_agent,small_talk
+I like you too you're one of my favorite people to chat with,smalltalk_user_likes_agent,small_talk
+but I like you so much,smalltalk_user_likes_agent,small_talk
+really like you,smalltalk_user_likes_agent,small_talk
+you're funny I like you,smalltalk_user_likes_agent,small_talk
+I kinda like you,smalltalk_user_likes_agent,small_talk
+you're so special to me,smalltalk_user_likes_agent,small_talk
+you're very special to me,smalltalk_user_likes_agent,small_talk
+I like that about you,smalltalk_user_likes_agent,small_talk
+but I like you just the way you are,smalltalk_user_likes_agent,small_talk
+okay I like you too,smalltalk_user_likes_agent,small_talk
+I like you you're cool,smalltalk_user_likes_agent,small_talk
+I like you very,smalltalk_user_likes_agent,small_talk
+I like you you're nice,smalltalk_user_likes_agent,small_talk
+sorry I like you,smalltalk_user_likes_agent,small_talk
+thanks I like you too,smalltalk_user_likes_agent,small_talk
+you are really special,smalltalk_user_likes_agent,small_talk
+you are so special to me,smalltalk_user_likes_agent,small_talk
+cuz I like you,smalltalk_user_likes_agent,small_talk
+I like you now,smalltalk_user_likes_agent,small_talk
+I like you so,smalltalk_user_likes_agent,small_talk
+I like you too much,smalltalk_user_likes_agent,small_talk
+I really do like you,smalltalk_user_likes_agent,small_talk
+I really really really really like you,smalltalk_user_likes_agent,small_talk
+I like you just the way you are,smalltalk_user_likes_agent,small_talk
+happy to hear that,smalltalk_appraisal_good,small_talk
+it's all right,smalltalk_appraisal_good,small_talk
+it's okay,smalltalk_appraisal_good,small_talk
+that's a wonderful situation,smalltalk_appraisal_good,small_talk
+it's not a bad thing,smalltalk_appraisal_good,small_talk
+this is very good,smalltalk_appraisal_good,small_talk
+i'm glad to hear that,smalltalk_appraisal_good,small_talk
+happy to hear,smalltalk_appraisal_good,small_talk
+glad to hear,smalltalk_appraisal_good,small_talk
+it's wonderful,smalltalk_appraisal_good,small_talk
+i'm good,smalltalk_user_good,small_talk
+i do great,smalltalk_user_good,small_talk
+im fine,smalltalk_user_good,small_talk
+i am fine,smalltalk_user_good,small_talk
+i am great,smalltalk_user_good,small_talk
+i'm doing pretty good,smalltalk_user_good,small_talk
+i'm doing so well,smalltalk_user_good,small_talk
+i'm doing great,smalltalk_user_good,small_talk
+i'm ok,smalltalk_user_good,small_talk
+i'm feeling good,smalltalk_user_good,small_talk
+i'm doing okay,smalltalk_user_good,small_talk
+i'm doing well,smalltalk_user_good,small_talk
+i'm doing fine,smalltalk_user_good,small_talk
+i do it,smalltalk_user_good,small_talk
+i'm doing good,smalltalk_user_good,small_talk
+i'm great thanks,smalltalk_user_good,small_talk
+what is the weather like?,smalltalk_user_weather,small_talk
+how is the weather?,smalltalk_user_weather,small_talk
+is the weather alright?,smalltalk_user_weather,small_talk
+how is the weather?,smalltalk_user_weather,small_talk
+how is the weather looking?,smalltalk_user_weather,small_talk
+whats the weather,smalltalk_user_weather,small_talk
+long time no see,smalltalk_greetings_hello,small_talk
+hello,smalltalk_greetings_hello,small_talk
+hi,smalltalk_greetings_hello,small_talk
+howdy,smalltalk_greetings_hello,small_talk
+hey there,smalltalk_greetings_hello,small_talk
+hey,smalltalk_greetings_hello,small_talk
+greetings,smalltalk_greetings_hello,small_talk
+I greet you,smalltalk_greetings_hello,small_talk
+hi there,smalltalk_greetings_hello,small_talk
+hello there,smalltalk_greetings_hello,small_talk
+lovely day isn't it,smalltalk_greetings_hello,small_talk
+hello again,smalltalk_greetings_hello,small_talk
+just going to say hi,smalltalk_greetings_hello,small_talk
+a good day,smalltalk_greetings_hello,small_talk
+afternoon,smalltalk_greetings_hello,small_talk
+hello hi,smalltalk_greetings_hello,small_talk
+heya,smalltalk_greetings_hello,small_talk
+long time no see,smalltalk_greetings_hello,small_talk
+hello,smalltalk_greetings_hello,small_talk
+hi,smalltalk_greetings_hello,small_talk
+howdy,smalltalk_greetings_hello,small_talk
+hey there,smalltalk_greetings_hello,small_talk
+hey,smalltalk_greetings_hello,small_talk
+greetings,smalltalk_greetings_hello,small_talk
+I greet you,smalltalk_greetings_hello,small_talk
+hi there,smalltalk_greetings_hello,small_talk
+hello there,smalltalk_greetings_hello,small_talk
+lovely day isn't it,smalltalk_greetings_hello,small_talk
+hello again,smalltalk_greetings_hello,small_talk
+just going to say hi,smalltalk_greetings_hello,small_talk
+a good day,smalltalk_greetings_hello,small_talk
+afternoon,smalltalk_greetings_hello,small_talk
+hello hi,smalltalk_greetings_hello,small_talk
+heya,smalltalk_greetings_hello,small_talk
+okay see you later,smalltalk_greetings_bye,small_talk
+hope to see you later,smalltalk_greetings_bye,small_talk
+bye for now,smalltalk_greetings_bye,small_talk
+till next time,smalltalk_greetings_bye,small_talk
+I must go,smalltalk_greetings_bye,small_talk
+bye,smalltalk_greetings_bye,small_talk
+goodbye,smalltalk_greetings_bye,small_talk
+see you,smalltalk_greetings_bye,small_talk
+see you soon,smalltalk_greetings_bye,small_talk
+bye-bye,smalltalk_greetings_bye,small_talk
+good bye,smalltalk_greetings_bye,small_talk
+bye bye see you,smalltalk_greetings_bye,small_talk
+bye bye see you soon,smalltalk_greetings_bye,small_talk
+bye bye take care,smalltalk_greetings_bye,small_talk
+I said bye,smalltalk_greetings_bye,small_talk
+never mind bye,smalltalk_greetings_bye,small_talk
+now bye,smalltalk_greetings_bye,small_talk
+that's all goodbye,smalltalk_greetings_bye,small_talk
+that's it goodbye,smalltalk_greetings_bye,small_talk
+leave me alone,smalltalk_greetings_bye,small_talk
+go to bed,smalltalk_greetings_bye,small_talk
+goodbye for now,smalltalk_greetings_bye,small_talk
+talk to you later,smalltalk_greetings_bye,small_talk
+you can go now,smalltalk_greetings_bye,small_talk
+get lost,smalltalk_greetings_bye,small_talk
+goodbye see you later,smalltalk_greetings_bye,small_talk
+alright bye,smalltalk_greetings_bye,small_talk
+see ya,smalltalk_greetings_bye,small_talk
+thanks bye bye,smalltalk_greetings_bye,small_talk
+okay bye,smalltalk_greetings_bye,small_talk
+okay thank you bye,smalltalk_greetings_bye,small_talk
+see you tomorrow,smalltalk_greetings_bye,small_talk
+ok bye,smalltalk_greetings_bye,small_talk
+what is the score of this show?,rating,show
+what is it rated?,rating,show
+what is this show rated?,rating,show
+can you tell me the score?,rating,show
+what is the score?,rating,show
+tell me the score?,rating,show
+what is is the score?,rating,show
+whats the score?,rating,show
+score?,rating,show
+whats it rated?,rating,show
+tell score?,rating,show
+rated?,rating,show
+how is it rated,rating,show
+how is the score,rating,show
+what is this show's score?,rating,show
+what is this shows score?,rating,show
+what is the rating of this rating?,rating,show
+what is it rated?,rating,show
+what is this show rated?,rating,show
+can you tell me the rating?,rating,show
+what is the rating?,rating,show
+tell me the rating?,rating,show
+what is is the rating?,rating,show
+whats the rating?,rating,show
+rating?,rating,show
+whats it rated?,rating,show
+tell rating?,rating,show
+rated?,rating,show
+how is it rated,rating,show
+how is the rating,rating,show
+what is this show's rating,rating,show
+what is this shows rating,rating,show
+what is my name?,name_recall,name
+who am I?,name_recall,name
+do you know who I am?,name_recall,name
+can you remember my name?,name_recall,name
+do you remember my name?,name_recall,name
+call my name,name_recall,name
+say my name,name_recall,name
+Do you know my name?,name_recall,name
+What am I called?,name_recall,name
+What do you call me?,name_recall,name
+What's the name of me?,name_recall,name
+Is that my name?,name_recall,name
+Which is my name?,name_recall,name
+What do I call myself?,name_recall,name
+You remember me right?,name_recall,name
+You remember my name?,name_recall,name
+You remember who I am?,name_recall,name
+You remember me from time to time?,name_recall,name
+You remember me from last night?,name_recall,name
+You remember me from back in the day?,name_recall,name
+You remember me when I was a kid?,name_recall,name
+You remember what I said?,name_recall,name
+speak my name,name_recall,name
+mention my name,name_recall,name
+give my name,name_recall,name
+say one's name,name_recall,name
+say my surname,name_recall,name
+speak out,name_recall,name
+say mine,name_recall,name
+use my word,name_recall,name
+do you remember me?,name_recall,name
+can you change my name?,name_change,name
+change my name,name_change,name
+call me something else,name_change,name
+call me something different,name_change,name
+change name,name_change,name
+change name,name_change,name
+call me a different name,name_change,name
+can you call me something different,name_change,name
+Give me a different name,name_change,name
+call me something else,name_change,name
+rename myself,name_change,name
+alter my name,name_change,name
+name change,name_change,name
+I want to change my name,name_change,name
+I want to change my name,name_change,name
+Change the way you refer to me.,name_change,name
+alter the name you give me.,name_change,name
+use a different name for myself,name_change,name
+refer to me differently,name_change,name
+call me something else,name_change,name
+mention me in a different way,name_change,name
+refer to me in a different way,name_change,name
+use a different name for,name_change,name
+rename.,name_change,name
+switch names.,name_change,name
+change one's name.,name_change,name
+change to another name.,name_change,name
+change to a different name.,name_change,name
+change the surname.,name_change,name
+change the title.,name_change,name
+change the noun.,name_change,name
+Call me otherwise.,name_change,name
+Give me a different call.,name_change,name
+Call me some other way.,name_change,name
+Call me someplace else.,name_change,name
+Give me another name.,name_change,name
+Give me something else.,name_change,name
+Don't call me anything.,name_change,name
+Call me another one.,name_change,name
